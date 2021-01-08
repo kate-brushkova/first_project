@@ -268,13 +268,15 @@ print(Person.is_adult(1))
 # git add .
 # git commit -m "first commit"
 # git remote add origin https://github.com/kate-brushkova/first_project.git
-# git push -u origin main
+# git push -u origin <branch_name>
 
 # REGULAR WORK
+# git pull
 # git status
 # git diff
-# git add .
+# git add
 # git commit -m 'commit message'           |        git commit --amend
+# git push origin <branch_name>
 # git push origin <branch_name>
 
 # BRANCH MANAGEMENT
