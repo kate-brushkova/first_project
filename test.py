@@ -274,7 +274,7 @@ print(Person.is_adult(1))
 # git pull
 # git status
 # git diff
-# git add
+# git add .
 # git commit -m 'commit message'           |        git commit --amend
 # git push origin <branch_name>
 # git push origin <branch_name>
