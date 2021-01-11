@@ -262,27 +262,4 @@ class Person:
 
 
 print(Person.is_adult(1))
-
-# FIRST TIME
-# git init
-# git add .
-# git commit -m "first commit"
-# git remote add origin https://github.com/kate-brushkova/first_project.git
-# git push -u origin <branch_name>
-
-# REGULAR WORK
-# git pull
-# git status
-# git diff
-# git add .
-# git commit -m 'commit message'           |        git commit --amend
-# git push origin <branch_name>
-# git push origin <branch_name>
-
-# BRANCH MANAGEMENT
-# git branch
-# git checkout -b <branch_name>            |       without 'b' flag the branch will be changed
-
-# VENV
-# source venv/bin/activate
-# deactivate
+print(Person.is_adult(19))
