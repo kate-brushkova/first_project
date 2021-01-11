@@ -286,3 +286,10 @@ print(Person.is_adult(1))
 # VENV
 # source venv/bin/activate
 # deactivate
+
+
+
+# TODO list
+#  1. review github interface
+#  2. review commands and test them out
+#  #. read the docs
